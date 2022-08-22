@@ -1,0 +1,19 @@
+.footerBlue {
+    background-color: darkblue;
+    text-align: center;
+
+    width: 900px;
+    height: 20px;
+
+}
+
+.footerH1 {
+    margin: 0px;
+
+
+}
+
+.allH3 {
+    background-color: darkblue;
+    color: lavender
+}
