@@ -2,6 +2,8 @@
 
 This project was created using React and Node JS for front-end. For back-end REST API calls are made to display weather information 
 
+
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -23,6 +25,12 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 
 In the UI Page enter city and you will be able to see weather information of the city including temperature, humidity, and pressure.
 
+
+## Quick bits to understand the design 
+
+![image](https://user-images.githubusercontent.com/45715538/186821336-e1da4255-2fba-4c90-9978-eb177af46ce0.png)
+
+
 ## Weather data is displayed using rest api hosted on https://openweathermap.org/ 
 
 This app is able to fetch weather information from Openweathermap endpoint. On submit of the form a rest api call is sent and fetched data is displayed to the user.
@@ -30,3 +38,4 @@ This app is able to fetch weather information from Openweathermap endpoint. On s
 ## Future enhancements 
 
 This app can be further improvised by adding more pictorial representations and other more details could be fetched from the API.
+
