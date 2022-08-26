@@ -1,6 +1,6 @@
 # Getting Started with Weather App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was created using React and Node JS for front-end. For back-end REST API calls are made to display weather information 
 
 ## Available Scripts
 
@@ -19,10 +19,14 @@ You may also see any lint errors in the console.
 Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+## Once you are done with the above mentioned step you'll be able to see a UI Page
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+In the UI Page enter city and you will be able to see weather information of the city including temperature, humidity, and pressure.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Weather data is displayed using rest api hosted on https://openweathermap.org/ 
+
+This app is able to fetch weather information from Openweathermap endpoint. On submit of the form a rest api call is sent and fetched data is displayed to the user.
+
+## Future enhancements 
+
+This app can be further improvised by adding more pictorial representations and other more details could be fetched from the API.
