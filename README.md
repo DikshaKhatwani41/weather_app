@@ -25,6 +25,8 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 
 In the UI Page enter city and you will be able to see weather information of the city including temperature, humidity, and pressure.
 
+![weather](https://user-images.githubusercontent.com/45715538/186821654-01acd592-7b5b-46ff-9d6f-e6ccd9487ad0.PNG)
+
 
 ## Quick bits to understand the design 
 
