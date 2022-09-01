@@ -11,7 +11,7 @@ JSON, XML, and HTML formats
 
 
 ### Language
-<font color="blue"> React.js, REST API</font>
+React.js, REST API
 
 ### Database 
 NA
