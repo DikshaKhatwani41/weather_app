@@ -2,6 +2,22 @@
 
 This project was created using React and Node JS for front-end. For back-end REST API calls are made to display weather information 
 
+## What it does ?
+
+Access current weather data for any location including over 200,000 cities<br/>
+This app uses an API that collect and process weather data from different sources such as global and local weather models, satellites, radars and a vast network of weather stations
+JSON, XML, and HTML formats
+<br/>
+
+
+### Language
+<font color="blue"> React.js, REST API</font>
+
+### Database 
+NA
+
+### API 
+https://openweathermap.org/
 
 
 ## Available Scripts
